@@ -41,7 +41,7 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
 *Página principal con información destacada y bienvenida a los usuarios*
 
 ### Catálogo de Productos
-![Página de Productos](./img/capturas/productos.png)
+![Página de Productos](.html-site-semana-6/img/Capturas/productos.png)
 *Explora nuestra amplia gama de productos educativos disponibles*
 
 ### Formulario de Contacto
