@@ -1,12 +1,12 @@
-# Sitio Web Educativo
+# 🎓 Sitio Web Educativo
 
 Bienvenido al repositorio del sitio web educativo, una plataforma diseñada para facilitar el aprendizaje en línea con recursos educativos de calidad.
 
-## Descripción del Proyecto
+## 📋 Descripción del Proyecto
 
 Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece recursos, herramientas y materiales de aprendizaje para estudiantes de diferentes niveles. El sitio está construido con tecnologías web estándar como HTML, CSS y JavaScript.
 
-## Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
 ```
 .
@@ -15,39 +15,54 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
 ├── contacto.html       # Formulario de contacto
 ├── registro.html       # Página de registro de usuarios
 ├── img/               # Directorio para imágenes
+│   ├── capturas/      # Capturas de pantalla del sitio
+│   │   ├── inicio.png
+│   │   ├── productos.png
+│   │   ├── contacto.png
+│   │   └── registro.png
 │   └── banner.jpg     # Imagen del banner principal
 └── README.md          # Este archivo
 ```
 
-## Equipo de Desarrollo
+## 🚀 Características Principales
 
-### Equipo del Proyecto
-
-- **Almeida Coello Byron Omar** - Desarrollador Frontend
-- **Andrade Loor Thalia Mercedes** - Diseñadora UI/UX
-- **Jaramillo Rivera John David** - Desarrollador Backend
-- **Mora Quijije Yaritza Cristhel** - Gestora de Contenidos
-
-## Capturas
+- Interfaz intuitiva y fácil de usar
+- Diseño responsivo para todos los dispositivos
+- Secciones organizadas para un mejor aprendizaje
+- Formulario de contacto funcional
+- Sistema de registro de usuarios
 
 ## 📸 Capturas de Pantalla
 
-Las siguientes capturas de pantalla muestran las diferentes secciones del sitio web. Para ver las imágenes en su totalidad, asegúrate de que los archivos estén en la carpeta `img/screenshots/` con los nombres indicados.
-
 ### Página de Inicio
-![Página de Inicio](./img/capturas/inicio.jpg)
-*Presentación de la marca y productos destacados*
+![Página de Inicio](./img/capturas/inicio.png)
+*Página principal con información destacada*
 
-### Nuestros Servicios
-![Servicios](./img/screenshots/servicios.jpg)
-*Muestra de nuestros productos y servicios de café*
+### Nuestros Productos
+![Página de Productos](./img/capturas/productos.png)
 
-### Acerca de Nosotros
-![Acerca de](./img/screenshots/acerca.jpg)
-*Nuestra historia y equipo de trabajo*
+*Catálogo completo de productos educativos*
 
+### Contáctanos
+![Formulario de Contacto](./img/capturas/contacto.png)
 
-## Cómo Contribuir
+*Formulario para comunicación directa*
+
+### Regístrate
+![Página de Registro](./img/capturas/registro.png)
+
+*Formulario de registro de usuarios*
+
+## 👥 Equipo de Desarrollo
+
+| Nombre | Rol |
+|----------|-----|
+| **Almeida Coello Byron Omar** | Desarrollador Frontend |
+| **Andrade Loor Thalia Mercedes** | Diseñadora UI/UX |
+| **Jaramillo Rivera John David** | Desarrollador Backend |
+| **Mora Quijije Yaritza Cristhel** | Gestora de Contenidos |
+
+## 🛠️ Cómo Contribuir
 
 1. Haz un fork del repositorio
 2. Crea una rama para tu característica (`git checkout -b feature/nueva-caracteristica`)
@@ -55,7 +70,7 @@ Las siguientes capturas de pantalla muestran las diferentes secciones del sitio 
 4. Haz push a la rama (`git push origin feature/nueva-caracteristica`)
 5. Abre un Pull Request
 
-## Licencia
+## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más información.
 
