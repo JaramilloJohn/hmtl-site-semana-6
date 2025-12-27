@@ -36,7 +36,7 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
 
 ### Página de Inicio
 ![Página de Inicio](./img/capturas/inicio.png)
-*Página principal con información destacada*
+*Inicio*
 
 ### Nuestros Productos
 ![Página de Productos](./img/capturas/productos.png)
