@@ -36,7 +36,9 @@ Aquí puedes ver las capturas de pantalla del sitio web:
 
 | Página | Captura |
 |--------|---------|
-| **Página de Inicio** | <img src="/img/capturas/inicio.jpg" width="400" alt="Página de Inicio"> |
+| ### Página de Inicio
+![Página de Inicio](./img/capturas/inicio.jpg)
+*Presentación de la marca y productos destacados*
 | **Página de Productos** | <img src="img/capturas/productos.png" width="400" alt="Página de Productos"> |
 | **Formulario de Contacto** | <img src="img/capturas/contacto.png" width="400" alt="Formulario de Contacto"> |
 | **Página de Registro** | <img src="img/capturas/registro.png" width="400" alt="Página de Registro"> |
