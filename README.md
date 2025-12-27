@@ -34,24 +34,25 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
 
 ## 📸 Capturas de Pantalla
 
+<div align="center">
+
 ### Página de Inicio
 ![Página de Inicio](./img/capturas/inicio.png)
-*Inicio*
+*Página principal con información destacada y bienvenida a los usuarios*
 
-### Nuestros Productos
+### Catálogo de Productos
 ![Página de Productos](./img/capturas/productos.png)
+*Explora nuestra amplia gama de productos educativos disponibles*
 
-*Catálogo completo de productos educativos*
-
-### Contáctanos
+### Formulario de Contacto
 ![Formulario de Contacto](./img/capturas/contacto.png)
+*Contáctanos para más información o consultas sobre nuestros servicios*
 
-*Formulario para comunicación directa*
-
-### Regístrate
+### Página de Registro
 ![Página de Registro](./img/capturas/registro.png)
+*Únete a nuestra plataforma completando el formulario de registro*
 
-*Formulario de registro de usuarios*
+</div>
 
 ## 👥 Equipo de Desarrollo
 
