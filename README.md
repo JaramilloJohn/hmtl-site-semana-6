@@ -54,7 +54,7 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
 <summary>Ver capturas de pantalla</summary>
 
 ### 🏠 Página de Inicio
-![Página de Inicio](./img/Capturas/inicio.png)
+![Página de Inicio] https://github.com/JaramilloJohn/hmtl-site-semana-6/blob/main/img/Capturas/inicio.png
 *Página principal con información destacada y bienvenida a los usuarios*
 
 ### 📚 Catálogo de Productos
