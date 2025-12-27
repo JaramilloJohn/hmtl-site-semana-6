@@ -34,7 +34,7 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
   <div class="screenshot-card">
     <h3>Página de Inicio</h3>
     <div class="screenshot-container">
-      <img src="img/capturas/inicio.jpg" alt="Página de Inicio">
+      <img src="./img/capturas/inicio.jpg" alt="Página de Inicio">
     </div>
     <p class="screenshot-desc">Presentación de la marca y productos destacados</p>
   </div>
@@ -42,7 +42,7 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
   <div class="screenshot-card">
     <h3>Página de Productos</h3>
     <div class="screenshot-container">
-      <img src="img/capturas/productos.png" alt="Página de Productos">
+      <img src="./img/capturas/productos.png" alt="Página de Productos">
     </div>
     <p class="screenshot-desc">Explora nuestra variedad de productos educativos</p>
   </div>
@@ -50,7 +50,7 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
   <div class="screenshot-card">
     <h3>Formulario de Contacto</h3>
     <div class="screenshot-container">
-      <img src="img/capturas/contacto.png" alt="Formulario de Contacto">
+      <img src="./img/capturas/contacto.png" alt="Formulario de Contacto">
     </div>
     <p class="screenshot-desc">Contáctanos para más información</p>
   </div>
@@ -58,7 +58,7 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
   <div class="screenshot-card">
     <h3>Página de Registro</h3>
     <div class="screenshot-container">
-      <img src="img/capturas/registro.png" alt="Página de Registro">
+      <img src="./img/capturas/registro.png" alt="Página de Registro">
     </div>
     <p class="screenshot-desc">Únete a nuestra comunidad educativa</p>
   </div>
