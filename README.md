@@ -52,18 +52,22 @@ Este proyecto consiste en el desarrollo de un sitio web educativo que ofrece rec
 
 ### 🏠 Página de Inicio
 ![Página de Inicio](./img/Capturas/inicio.png)
+
 *Página principal con información destacada y bienvenida a los usuarios*
 
 ### 📚 Catálogo de Productos
 ![Página de Productos](./img/Capturas/productos.png)
+
 *Explora nuestra amplia gama de productos educativos disponibles*
 
 ### 📝 Formulario de Contacto
 ![Formulario de Contacto](./img/Capturas/contacto.png)
+
 *Contáctanos para más información o consultas sobre nuestros servicios*
 
 ### 👥 Página de Registro
 ![Página de Registro](./img/Capturas/registro.png)
+
 *Únete a nuestra plataforma completando el formulario de registro*
 
 </details>
